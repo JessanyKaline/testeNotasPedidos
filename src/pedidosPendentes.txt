@@ -1,0 +1,48 @@
+Número do pedido: 2
+Valor total do pedido: R$ 500.00
+Número do item: 2, Saldo da quantidade: 25
+Valor por unidade: R$ 20.00
+Saldo do valor do item: R$ 500.00
+
+Número do pedido: 3
+Valor total do pedido: R$ 75.00
+Número do item: 3, Saldo da quantidade: 5
+Valor por unidade: R$ 15.00
+Saldo do valor do item: R$ 75.00
+
+Número do pedido: 3
+Valor total do pedido: R$ 68.00
+Número do item: 2, Saldo da quantidade: 4
+Valor por unidade: R$ 17.00
+Saldo do valor do item: R$ 68.00
+
+Número do pedido: 3
+Valor total do pedido: R$ 270.00
+Número do item: 1, Saldo da quantidade: 27
+Valor por unidade: R$ 10.00
+Saldo do valor do item: R$ 270.00
+
+Número do pedido: 5
+Valor total do pedido: R$ 15.90
+Número do item: 6, Saldo da quantidade: 1
+Valor por unidade: R$ 15.90
+Saldo do valor do item: R$ 15.90
+
+Número do pedido: 5
+Valor total do pedido: R$ 405.00
+Número do item: 4, Saldo da quantidade: 9
+Valor por unidade: R$ 45.00
+Saldo do valor do item: R$ 405.00
+
+Número do pedido: 5
+Valor total do pedido: R$ 105.00
+Número do item: 2, Saldo da quantidade: 15
+Valor por unidade: R$ 7.00
+Saldo do valor do item: R$ 105.00
+
+Número do pedido: 5
+Valor total do pedido: R$ 30.00
+Número do item: 1, Saldo da quantidade: 3
+Valor por unidade: R$ 10.00
+Saldo do valor do item: R$ 30.00
+
